@@ -1,0 +1,12 @@
+.question, .answer {
+	margin: 25px;
+	padding: 10px;
+}
+
+.question {
+	font-weight: bold;
+}
+
+body ul li {
+	list-style-type: none;
+}
